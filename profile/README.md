@@ -19,8 +19,9 @@
 2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
 3. Open a terminal and transfer the file you extracted in the last step into it.
 4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
-
+```
 [![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+```
 
 # Installation via a command in the terminal:
 
